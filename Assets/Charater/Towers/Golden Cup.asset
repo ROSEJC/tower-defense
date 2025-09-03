@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e63370918a4117245bacf42e2d3a038d, type: 3}
+  m_Name: Golden Cup
+  m_EditorClassIdentifier: 
+  ID: goldencup
+  TowerName: GOLDEN CUP
+  price: 300
+  information: 50% gold bonus
+  avt: {fileID: -6754749792851993740, guid: bf2bb05b729afb449964ad3d47d39b99, type: 3}

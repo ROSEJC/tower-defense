@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98ebe15683c2eff4aac8e0f2e75d1aca, type: 3}
+  m_Name: normalArcher
+  m_EditorClassIdentifier: 
+  charaterName: 
+  price: 0
+  ID: 3
+  head:
+  - {fileID: 1298611098346849436, guid: 2079e1a7aea7db042b93540c354780b3, type: 3}
+  - {fileID: 6093124605289402053, guid: 13963e74ac25d9e48bf98ffc72c53076, type: 3}
+  - {fileID: 4391721653100446669, guid: 292e6b236659db5459ec241704635187, type: 3}
+  body:
+  - {fileID: 6613411538178759197, guid: 2043b0c1e3003214c83ef8644602f5e9, type: 3}
+  - {fileID: 7656521854831781367, guid: a8c5639994e32894188062378aca4a37, type: 3}
+  weapon:
+  - {fileID: 7986421603294678438, guid: 842204d1bae2e8948b69602a49e7e898, type: 3}
+  - {fileID: 7986421603294678438, guid: 58c00d24b80b6ee4eb1cb5748efd5c20, type: 3}
+  - {fileID: 7986421603294678438, guid: eb87f2ba502367d49844cc129b176e5b, type: 3}
+  LevelCheckpoint: 010000000200000003000000
+  charateAvatar: {fileID: 0}
+  skillImage: {fileID: 0}
+  information: 
+  MAX_LEVEL: 3

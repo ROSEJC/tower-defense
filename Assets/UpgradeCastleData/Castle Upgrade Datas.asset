@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4437c9f3db96c214287679b6bb905438, type: 3}
+  m_Name: Castle Upgrade Datas
+  m_EditorClassIdentifier: 
+  CastleUpgradeData:
+  - Castle_HP: 100
+    Castle_MP: 100
+    price: 0
+  - Castle_HP: 150
+    Castle_MP: 100
+    price: 20
+  - Castle_HP: 150
+    Castle_MP: 100
+    price: 30
+  - Castle_HP: 150
+    Castle_MP: 150
+    price: 40
+  - Castle_HP: 150
+    Castle_MP: 150
+    price: 50
+  - Castle_HP: 200
+    Castle_MP: 150
+    price: 60
+  - Castle_HP: 200
+    Castle_MP: 200
+    price: 70
+  - Castle_HP: 250
+    Castle_MP: 200
+    price: 80

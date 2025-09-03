@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f49142df632c04b80fcd5650d62938, type: 3}
+  m_Name: Round 6
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 8303852319361726807, guid: 1ab81c5e0252e9b41a907083a8ca97c1, type: 3}
+  - {fileID: 2957337574922757956, guid: f05a1386e798e5443856940ec9f0986d, type: 3}
+  amount: 0f0000003c000000
+  timeSpawn:
+  - 0.8
+  - 0.6

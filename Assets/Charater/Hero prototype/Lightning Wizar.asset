@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98ebe15683c2eff4aac8e0f2e75d1aca, type: 3}
+  m_Name: Lightning Wizar
+  m_EditorClassIdentifier: 
+  charaterName: LIGHTNING WIZARD
+  price: 400
+  ID: lightning
+  head:
+  - {fileID: 2000943949557755451, guid: 0d323d88cc5b469408c2a5047b037bab, type: 3}
+  body:
+  - {fileID: 6613411538178759197, guid: 2043b0c1e3003214c83ef8644602f5e9, type: 3}
+  weapon:
+  - {fileID: 7626519193544918474, guid: fc280f25b76aa4049bf560ee2788432b, type: 3}
+  LevelCheckpoint: 01000000
+  charateAvatar: {fileID: 21300000, guid: 65145c54fb3fa154b883ba502634f80a, type: 3}
+  skillImage: {fileID: 0}
+  information: 'Damage: 10
+
+    Speed: 2
+
+'
+  MAX_LEVEL: 0
