@@ -40,9 +40,9 @@ Pre-built APKs are available in the root directory for quick testing on Android 
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
+## Demo
+You can check out the demo **[here](https://drive.google.com/drive/folders/11-tfQH9-YPmIG_rpAKog9uohXTrhmc5E?hl=vi)**.
 
-This project is licensed under the MIT License.
 
 ---
 
